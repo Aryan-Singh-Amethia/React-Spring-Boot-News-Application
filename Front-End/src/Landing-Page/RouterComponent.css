@@ -1,0 +1,44 @@
+li {
+    list-style-type: none;
+    margin: 65px;
+    padding:0.2em;
+    display: inline;
+  }
+
+  nav{
+    background-color: black;
+    width: 100%;
+    height: 35px;
+    display: grid;
+    align-items: center;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: left;
+
+  }
+
+  a{
+    color: white !important;
+    text-decoration: none !important;
+  
+  }
+
+ #li_e{
+    height: 40px;
+    border-radius: 10px;
+    width: 100%;
+ }
+
+  #li_e:hover{
+    background-color: #495C83;
+  }
+
+  #upper_row{
+    display: flex;
+    align-items: flex-start;
+  }
+
+ul{
+  display: inline-flex;
+  flex-direction: row;
+}  

@@ -1,0 +1,50 @@
+    /* #card-1{
+        background-color: #370665;
+        height: 1000px;
+        width:  1000px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #card-2{
+        background-color: #35589A;
+        height: 700px;
+        width:  700px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #card-3{
+        background-color: #F14A16;
+        height: 500px;
+        width:  500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #card-4{
+        background-color: #FC9918;
+        height: 300px;
+        width:  300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }    
+
+    form{
+        align-items: center;
+        justify-content: center;
+    } */
+
+
+#card-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid black;
+    height: 200px;
+    width: 500px;
+}    
